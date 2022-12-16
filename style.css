@@ -37,4 +37,18 @@ ul {
     padding: 0 30px;
 }
 
+.navbar {
+    background: #3474e6;
+    color: #fff;
+    height: 60px;
+}
 
+.navbar .logo {
+    font-size: x-large;
+    font-weight: bold;
+
+}
+
+.navbar .container {
+    display: flex;
+}
